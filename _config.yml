@@ -3,7 +3,7 @@ name: "Dean Kim"
 title: "Dean Kim"
 description: "Developer."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
 baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
